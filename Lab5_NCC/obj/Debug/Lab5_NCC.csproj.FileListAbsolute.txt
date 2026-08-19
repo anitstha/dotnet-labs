@@ -1,0 +1,7 @@
+D:\anitcodes\anitstha\dotnet-labs\Lab5_NCC\bin\Debug\Lab5_NCC.exe.config
+D:\anitcodes\anitstha\dotnet-labs\Lab5_NCC\bin\Debug\Lab5_NCC.exe
+D:\anitcodes\anitstha\dotnet-labs\Lab5_NCC\bin\Debug\Lab5_NCC.pdb
+D:\anitcodes\anitstha\dotnet-labs\Lab5_NCC\obj\Debug\Lab5_NCC.csproj.AssemblyReference.cache
+D:\anitcodes\anitstha\dotnet-labs\Lab5_NCC\obj\Debug\Lab5_NCC.csproj.CoreCompileInputs.cache
+D:\anitcodes\anitstha\dotnet-labs\Lab5_NCC\obj\Debug\Lab5_NCC.exe
+D:\anitcodes\anitstha\dotnet-labs\Lab5_NCC\obj\Debug\Lab5_NCC.pdb
