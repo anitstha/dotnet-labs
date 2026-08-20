@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\anitcodes\\anitstha\\dotnet-labs\\CRUD_Lab17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0224FE-E70A-4AE1-A119-9FCE2FB47EC9}|CRUD_Lab17.csproj|d:\\anitcodes\\anitstha\\dotnet-labs\\crud_lab17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0224FE-E70A-4AE1-A119-9FCE2FB47EC9}|CRUD_Lab17.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\anitcodes\\anitstha\\dotnet-labs\\CRUD_Lab17\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\anitcodes\\anitstha\\dotnet-labs\\CRUD_Lab17\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:08:49.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

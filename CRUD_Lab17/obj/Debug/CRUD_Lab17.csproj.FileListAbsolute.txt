@@ -1,0 +1,7 @@
+D:\anitcodes\anitstha\dotnet-labs\CRUD_Lab17\bin\Debug\CRUD_Lab17.exe.config
+D:\anitcodes\anitstha\dotnet-labs\CRUD_Lab17\bin\Debug\CRUD_Lab17.exe
+D:\anitcodes\anitstha\dotnet-labs\CRUD_Lab17\bin\Debug\CRUD_Lab17.pdb
+D:\anitcodes\anitstha\dotnet-labs\CRUD_Lab17\obj\Debug\CRUD_Lab17.csproj.AssemblyReference.cache
+D:\anitcodes\anitstha\dotnet-labs\CRUD_Lab17\obj\Debug\CRUD_Lab17.csproj.CoreCompileInputs.cache
+D:\anitcodes\anitstha\dotnet-labs\CRUD_Lab17\obj\Debug\CRUD_Lab17.exe
+D:\anitcodes\anitstha\dotnet-labs\CRUD_Lab17\obj\Debug\CRUD_Lab17.pdb
