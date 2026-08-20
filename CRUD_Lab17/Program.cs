@@ -11,9 +11,52 @@ namespace CRUD_Lab17
     public class Program
     {
         static string connectionString = @"Data Source=.\SQLEXPRESS;Database=studentDB;Integrated Security=True;";
+
         static void Main(string[] args)
         {
-            InsertRecord();
+            while (true)
+            {
+                Console.WriteLine("\n===== Student CRUD Operation =====");
+                Console.WriteLine("1. Insert Record");
+                Console.WriteLine("2. Update Record");
+                Console.WriteLine("3. Delete Record");
+                Console.WriteLine("4. Select Records");
+                Console.WriteLine("5. Exit");
+                Console.Write("Enter your choice: ");
+
+                int choice = Convert.ToInt32(Console.ReadLine());
+
+                switch (choice)
+                {
+                    case 1:
+                        InsertRecord();
+                        break;
+
+                    case 2:
+                        UpdateRecord();
+                        break;
+
+                    case 3:
+                        DeleteRecord();
+                        break;
+
+                    case 4:
+                        SelectRecord();
+                        break;
+
+                    case 5:
+                        Console.WriteLine("Exiting program...");
+                        return;
+
+                    default:
+                        Console.WriteLine("Invalid choice. Please try again.");
+                        break;
+                }
+
+                Console.WriteLine("\nPress any key to continue...");
+                Console.ReadKey();
+                Console.Clear();
+            }
         }
 
         //insert
@@ -102,7 +145,7 @@ namespace CRUD_Lab17
         //select
         static void SelectRecord()
         {
-            using(SqlConnection conn = new SqlConnection(connectionString))
+            using (SqlConnection conn = new SqlConnection(connectionString))
             {
                 conn.Open();
                 SqlCommand cmd = new SqlCommand("Select * FROM tblStudent", conn);
@@ -110,7 +153,7 @@ namespace CRUD_Lab17
 
                 Console.WriteLine("\nId\tName\tAge");
                 Console.WriteLine("-----------------------------");
-                    while(reader.Read())
+                while (reader.Read())
                 {
                     Console.WriteLine(reader["Id"] + "\t" + reader["Name"] + "\t" + reader["Age"]);
                 }
