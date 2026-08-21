@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\anitcodes\\anitstha\\dotnet-labs\\Lab18_EF_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E72702AF-6268-4A39-B499-FDAB9EA90979}|Lab18_EF_CRUD.csproj|d:\\anitcodes\\anitstha\\dotnet-labs\\lab18_ef_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72702AF-6268-4A39-B499-FDAB9EA90979}|Lab18_EF_CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72702AF-6268-4A39-B499-FDAB9EA90979}|Lab18_EF_CRUD.csproj|d:\\anitcodes\\anitstha\\dotnet-labs\\lab18_ef_crud\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72702AF-6268-4A39-B499-FDAB9EA90979}|Lab18_EF_CRUD.csproj|solutionrelative:studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72702AF-6268-4A39-B499-FDAB9EA90979}|Lab18_EF_CRUD.csproj|d:\\anitcodes\\anitstha\\dotnet-labs\\lab18_ef_crud\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72702AF-6268-4A39-B499-FDAB9EA90979}|Lab18_EF_CRUD.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72702AF-6268-4A39-B499-FDAB9EA90979}|Lab18_EF_CRUD.csproj|d:\\anitcodes\\anitstha\\dotnet-labs\\lab18_ef_crud\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E72702AF-6268-4A39-B499-FDAB9EA90979}|Lab18_EF_CRUD.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72702AF-6268-4A39-B499-FDAB9EA90979}|Lab18_EF_CRUD.csproj|d:\\anitcodes\\anitstha\\dotnet-labs\\lab18_ef_crud\\migrations\\202608210145235_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72702AF-6268-4A39-B499-FDAB9EA90979}|Lab18_EF_CRUD.csproj|solutionrelative:migrations\\202608210145235_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72702AF-6268-4A39-B499-FDAB9EA90979}|Lab18_EF_CRUD.csproj|d:\\anitcodes\\anitstha\\dotnet-labs\\lab18_ef_crud\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72702AF-6268-4A39-B499-FDAB9EA90979}|Lab18_EF_CRUD.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "202608210145235_InitialCreate.cs",
+              "DocumentMoniker": "D:\\anitcodes\\anitstha\\dotnet-labs\\Lab18_EF_CRUD\\Migrations\\202608210145235_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\202608210145235_InitialCreate.cs",
+              "ToolTip": "D:\\anitcodes\\anitstha\\dotnet-labs\\Lab18_EF_CRUD\\Migrations\\202608210145235_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\202608210145235_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T01:45:39.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\anitcodes\\anitstha\\dotnet-labs\\Lab18_EF_CRUD\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\anitcodes\\anitstha\\dotnet-labs\\Lab18_EF_CRUD\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-21T01:29:48.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\anitcodes\\anitstha\\dotnet-labs\\Lab18_EF_CRUD\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "StudentDbContext.cs",
+              "ToolTip": "D:\\anitcodes\\anitstha\\dotnet-labs\\Lab18_EF_CRUD\\StudentDbContext.cs",
+              "RelativeToolTip": "StudentDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T01:25:14.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\anitcodes\\anitstha\\dotnet-labs\\Lab18_EF_CRUD\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\anitcodes\\anitstha\\dotnet-labs\\Lab18_EF_CRUD\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T01:20:39.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\anitcodes\\anitstha\\dotnet-labs\\Lab18_EF_CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\anitcodes\\anitstha\\dotnet-labs\\Lab18_EF_CRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T01:17:12.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\anitcodes\\anitstha\\dotnet-labs\\Lab18_EF_CRUD\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "D:\\anitcodes\\anitstha\\dotnet-labs\\Lab18_EF_CRUD\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T01:44:14.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

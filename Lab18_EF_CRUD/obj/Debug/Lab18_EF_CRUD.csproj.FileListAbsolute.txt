@@ -1,0 +1,14 @@
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\bin\Debug\Lab18_EF_CRUD.exe.config
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\bin\Debug\Lab18_EF_CRUD.exe
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\bin\Debug\Lab18_EF_CRUD.pdb
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\bin\Debug\EntityFramework.dll
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\bin\Debug\EntityFramework.xml
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\obj\Debug\Lab18_EF_CRUD.csproj.AssemblyReference.cache
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\obj\Debug\Lab18_EF_CRUD.csproj.CoreCompileInputs.cache
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\obj\Debug\Lab18_EF.C3016A19.Up2Date
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\obj\Debug\Lab18_EF_CRUD.exe
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\obj\Debug\Lab18_EF_CRUD.pdb
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\obj\Debug\Lab18_EF_CRUD.Migrations.InitialCreate.resources
+D:\anitcodes\anitstha\dotnet-labs\Lab18_EF_CRUD\obj\Debug\Lab18_EF_CRUD.csproj.GenerateResource.cache
